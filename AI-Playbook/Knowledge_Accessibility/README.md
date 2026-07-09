@@ -54,3 +54,9 @@ Organizations rarely have an information problem.
 They have a knowledge accessibility problem.
 
 AI transforms information into guidance, enabling people to focus on judgment, coaching, and high-value work.
+
+## Where Human Judgment Matters
+
+AI is highly effective at organizing information, identifying patterns, and accelerating synthesis.
+
+Human expertise remains essential for interpreting organizational context, validating conclusions, understanding culture, navigating stakeholder dynamics, and 
