@@ -46,3 +46,9 @@ Human judgment validates accuracy, context, and recommendations before sharing w
 ## Lessons Learned
 
 The quality of the output depends more on the structure of the prompt and the quality of the source material than on the AI model itself.
+
+## Where Human Judgment Matters
+
+AI is highly effective at organizing information, identifying patterns, and accelerating synthesis.
+
+Human expertise remains essential for interpreting organizational context, validating conclusions, understanding culture, navigating stakeholder dynamics, and making leadership decisions.
